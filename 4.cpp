@@ -1,7 +1,6 @@
 #include<iostream.h>
 #include<conio.h>
-void main()
-{
+void main(){
 	clrscr();
 	char ch;
 	cout<<"Enter a character: ";
