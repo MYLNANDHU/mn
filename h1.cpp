@@ -1,8 +1,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{
-    int n,a[10],k[10],i,j,l=0,count=0,temp;
+{ int n,a[10],k[10],i,j,l=0,count=0,temp;
    cin>>n;
    for(i=0;i<n;i++)
    {
