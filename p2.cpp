@@ -1,6 +1,5 @@
 #include<iostream>
-int main()
-{
+int main(){
     int a[200],i,j,n,t,k;
     cin>>n;
     cin>>k;
